@@ -1,1 +1,7 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { 
+    "namespace": "android_app", 
+    "package_name": "com.example.roomdatabase",
+     "sha256_cert_fingerprints": ["9C:9F:A5:59:5E:90:DA:5E:4F:FF:8C:F2:62:A1:BD:E2:9F:CE:46:ED:A5:8D:98:4E:56:07:1A:E0:38:98:AE:80"] }
+}]
